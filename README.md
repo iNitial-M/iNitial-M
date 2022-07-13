@@ -14,7 +14,7 @@ I'm learning programming through small projects on the side.
 
 ---
 
-## About Me
+## Skill's
 
 <p>
 <div align="center">
