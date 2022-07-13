@@ -5,7 +5,7 @@
 </h1>
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=iNitialM503.iNitialM503)
-[![Github](https://img.shields.io/github/followers/isLukman?label=Follow&style=social)](https://github.com/iNitialM503)
+[![Github](https://img.shields.io/github/followers/iNitialM503?label=Follow&style=social)](https://github.com/iNitialM503)
 [![Twitter](https://img.shields.io/twitter/follow/initial_m503?style=social)](https://twitter.com/initial_m503)
 
 Hello, My name is <strong>M Lukman</strong>, Currently Working at IT Consultant (<strong>Java Developer</strong>) Jakarta Selatan, Indonesia.
