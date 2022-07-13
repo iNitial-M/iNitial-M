@@ -95,7 +95,7 @@ public class Definition {
 </p>
 <br>
 
-[![M Lukman' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iNitialM503&custom_title=M%20Lukman%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+![M Lukman' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iNitialM503&custom_title=M%20Lukman%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 ---
 
