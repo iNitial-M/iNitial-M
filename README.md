@@ -4,8 +4,8 @@
   Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=isLukman.Profile)
-[![Github](https://img.shields.io/github/followers/isLukman?label=Follow&style=social)](https://github.com/Aditya664)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=iNitialM503.iNitialM503)
+[![Github](https://img.shields.io/github/followers/isLukman?label=Follow&style=social)](https://github.com/iNitialM503)
 [![Twitter](https://img.shields.io/twitter/follow/initial_m503?style=social)](https://twitter.com/initial_m503)
 
 Hello, My name is <strong>M Lukman</strong>, Currently Working at IT Consultant (<strong>Java Developer</strong>) Jakarta Selatan, Indonesia.
@@ -89,13 +89,13 @@ public class Definition {
 
 <br/>
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=isLukman&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=isLukman&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iNitialM503&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iNitialM503&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![M Lukman' Activity Graph](https://activity-graph.herokuapp.com/graph?username=isLukman&custom_title=M%20Lukman%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![M Lukman' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iNitialM503&custom_title=M%20Lukman%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 ---
 
@@ -108,6 +108,6 @@ public class Definition {
 
 ---
 
-Credit: [isLukman](https://github.com/isLukman)
+Credit: [iNitialM503](https://github.com/iNitialM503)
 
 Last Edited on: 14/07/2022
