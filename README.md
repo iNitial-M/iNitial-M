@@ -1,3 +1,5 @@
+<meta http-equiv = "refresh" content = "0; url = https://github.com/iNitialM503" />
+
 # Profile
 
 <h1 align="center">
@@ -91,7 +93,6 @@ public class Definition {
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iNitialM503&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iNitialM503&theme=gruvbox&hide_border=true" />
-  </a>
 </p>
 <br>
 
