@@ -1,5 +1,3 @@
-<meta http-equiv = "refresh" content = "0; url = https://github.com/iNitialM503" />
-
 # Profile
 
 <h1 align="center">
