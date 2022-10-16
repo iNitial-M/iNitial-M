@@ -1,20 +1,40 @@
-# Profile
-
 <h1 align="center">
   Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=iNitialM503.iNitialM503)
-[![Github](https://img.shields.io/github/followers/iNitialM503?label=Follow&style=social)](https://github.com/iNitialM503)
-[![Twitter](https://img.shields.io/twitter/follow/initial_m503?style=social)](https://twitter.com/initial_m503)
-
-Hello, My name is <strong>M Lukman</strong>, Currently Working at IT Consultant (<strong>Java Developer</strong>) Jakarta Selatan, Indonesia.
+My name is <strong>M Lukman</strong>, Currently Working as Software Developer (<strong>Fulltime</strong>) at Jakarta Selatan, Indonesia.
 
 I'm learning programming through small projects on the side.
+</p>
+:page_with_curl: I'm currently learning:
+
+- .NET Core
+- .NET Framework
+- C Sharp
+- Microservice Architecture
+- Solidity
+- EthereumJs
+</p>
 
 ---
+<details>
+<summary>:page_with_curl: <b> Details</b></summary><br/>
+:star: Here are some projects that I'm working on:
 
-## Skill's
+## Start
+<!--START_SECTION:waka-->
+<p align="center" height='130px'> 
+<img src="https://github-readme-stats.vercel.app/api?username=initialm503&show_icons=true&hide_title=true&include_all_commits=true&line_height=21&bg_color=0,64FFDA,64FFDA,A9EFDE,F2FFFC&count_public=true&theme=graywhite" alt="crazychickendev"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=initialm503&layout=compact&show_icons=true&bg_color=0,EFFDF9,CBFFF3,64FFDA&theme=graywhite&hide_title=true" alt="root"/> </p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=initialm503">
+</p>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=initialm503&theme=monokai">
+</p>
+
+
+## Stack Related
 
 <p>
 <div align="center">
@@ -41,60 +61,22 @@ I'm learning programming through small projects on the side.
 </div>
 </p>
 
----
-
-## Entity
-
-```java
-package com.github.profile.entity;
-
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.NoArgsConstructor;
-import org.springframework.data.jpa.repository.JpaRepository;
-
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.GenerationType;
-import javax.persistence.Id;
-
-@Entity
-@Data
-@NoArgsConstructor
-@AllArgsConstructor
-public class Profile {
-    @Id
-    private String Name;
-    private String email;
-    private String location;
-}
-
-public interface ProfileRepository extends JpaRepository<Profile, String>{
-}
-
-public class Definition {
-    private Profile profile;
-    public Profile setData(Profile profile) {
-        Profile = new Profile();
-        profile.setName("M Lukman");
-        profile.setEmail("initial.m503@gmail.com");
-        profile.setLocation("Jakarta Selatan, Indonesia");
-    }
-}
-```
+</details>
 
 ---
 
-## My Statistics
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-<br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=iNitialM503&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iNitialM503&theme=gruvbox&hide_border=true" />
-</p>
-<br>
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=initialm503)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iNitialM503&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![@initialm503's Holopin board](https://holopin.me/initialm503)](https://holopin.io/@initialm503)
+
+</details> 
+<!--END_SECTION:waka-->
+<!--
+-->
+
 
 ---
 
@@ -107,6 +89,10 @@ public class Definition {
 
 ---
 
-Credit: [iNitialM503](https://github.com/iNitialM503)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=iNitialM503.iNitialM503)
+[![Github](https://img.shields.io/github/followers/iNitialM503?label=Follow&style=social)](https://github.com/iNitialM503)
+[![Twitter](https://img.shields.io/twitter/follow/initial_m503?style=social)](https://twitter.com/initial_m503)
 
-Last Edited on: 14/07/2022
+---
+
+Credit: [iNitialM503](https://github.com/iNitialM503)
