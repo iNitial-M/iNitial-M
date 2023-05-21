@@ -18,7 +18,7 @@ I'm learning programming through small projects on the side.
 
 ---
 
-<summary>📄<b> Connect With Me</b></summary><br/>
+📄<b> Connect With Me</b>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/initial_m503)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/5t1ll4l1v3)
