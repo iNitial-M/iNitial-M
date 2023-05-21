@@ -4,6 +4,8 @@
 
 My name is <strong>M Lukman</strong>, Currently Working as Software Developer (<strong>Fulltime</strong>) at Jakarta Selatan, Indonesia.
 
+This is my new GitHub account because my old GitHub account has been disabled for unknown reasons.
+
 I'm learning programming through small projects on the side.
 </p>
 :page_with_curl: I'm currently learning:
